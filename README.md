@@ -43,17 +43,17 @@ You must have **SDL3** installed on your system.
 ---
 
 ## Project Structure
-
+```
 .
 ├── CMakeLists.txt
 ├── README.md
 └── src/
-├── GameObject.h
-├── GameObject.cpp
-├── Rectangle.h
-├── Rectangle.cpp
-└── main.cpp
-
+    ├── GameObject.h
+    ├── GameObject.cpp
+    ├── Rectangle.h
+    ├── Rectangle.cpp
+    └── main.cpp
+```
 
 ---
 
